@@ -2,3 +2,6 @@ shape,par1,par2,par3,par4,colour
 ellipse,250,50,150,50,red
 circle,250,50,50,0,green
 rect,10,10,200,100,pink
+ellipse,250,250,150,50,red
+circle,250,250,50,0,green
+rect,10,210,200,100,pink
